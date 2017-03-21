@@ -15,8 +15,11 @@ class App extends Component {
         <div className='box1 sidebar'>SideBar</div>
         <div className='box1 content'>Content
           <img src='http://gridbyexample.com/examples/code/arrow-top-left.png' alt='top left' className='topleft' />
+          <img src='http://gridbyexample.com/examples/code/arrow-top-right.png' alt='top right' className='topright' />
+          <img src='http://gridbyexample.com/examples/code/arrow-bottom-left.png' alt='bottom left' className='bottomleft' />
+          <img src='http://gridbyexample.com/examples/code/arrow-bottom-right.png' alt='bottom right' className='bottomright' />
         </div>
-
+        <div className='box1 footer'>Footer</div>
       </div>
     </div>
   }
