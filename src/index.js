@@ -4,7 +4,7 @@ import { AppContainer } from 'react-hot-loader'
 import App from './components/App'
 
 import './styles/screen.scss'
-
+import './styles/screen1.scss'
 const root = document.getElementById('root')
 
 const render = (app) => {
